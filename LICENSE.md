@@ -1,0 +1,1 @@
+Unless stated otherwise, all content is Copyright (c) 2013 Cory Evan Wright, and code is licensed under the [MIT License](http://creativecommons.org/licenses/MIT/), Copyright (c) 2013  [Cory Evan Wright](http://CoryEvan.com)
